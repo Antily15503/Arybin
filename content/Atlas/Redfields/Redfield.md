@@ -3,7 +3,7 @@
 **Redfield** 
 Other names: (The Redfields, Vinesreach, Imperial Region, Heartland, Ifraland, Ifra's Potente)
 
- is perhaps the most prosperous region in all of Arybin. Located at the center of convergence of multiple different continents and cultures, the Redfield region is also one of the most diverse and well developed regions in all of Arybin.
+ The Redfield is perhaps the most prosperous region in all of Arybin. Located at the center of convergence of multiple different continents and cultures, the Redfield region is also one of the most diverse and well developed regions in all of Arybin.
 
 **Climate**
 The Redfields is mostly designated as the land and hilly countryside that surrounds the [[Sea of Marbor]], an expansive and well connected body of water that serves as the heart of trade and travel in the Redfield Region. 
@@ -17,29 +17,18 @@ primarily composed of forests and rolling green plains, with lots of rivers and 
 To the East and West, dense forests marks a break between the Redfields and other continents. Here, settlements are far and few between, and most of the land consists of thick virgin forests. 
 
 #### **Home Cultures:**
-[[Alaib People]]
+[[Formal Imperian]]
 
-## **Ruling Entities:**
+[[Novingian]]
 
-#### **The Celestial Imperium** 
+## **Main Regions:**
 
-[[White Imperia]]
+#### **[[Celestial Redlands]]**
 
-[[Asoria]]
-
-[[Margono City]]
-
-[[Ascardinia]]
-
-[[Echdiano]]
-
-[[Nadinva]]
-
-[[Whitehaven Gate]]
-
-
-##### **Minor Cities**
-
+#### **[[Ibenar]]**
+#### **[[Vernailes]]**
+Often called the "Animal Realm of the Vernailes", inhabited by many sentient beasts who live in relative harmony in their own region.
+#### **[[Island of Merka]]**
 
 
 ##### **Suburban Entities**

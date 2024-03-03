@@ -11,7 +11,7 @@ sThis is a Hub for Worlds in Different Regions (Continents)
 
 **[[Modinor]]**, the Kingdom under the Peaks and Guardians of Lava
 
-**[[Eodias]]**, the Dark North of the Corrupted Souls
+**[[Zabrh]]**, the Dark North of the Corrupted Souls
 
 **Realms Separated:**
 **[[Ni'aure]]**
