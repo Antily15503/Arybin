@@ -1,4 +1,6 @@
-The City of the Twelve Gems, or White Imperia (Imperia for short), is the self-proclaimed center and capital of Arybin. Sitting in the center of the Imperial Penninsula that pinches the Sea of Marbor, White Imperia is the capital of the [[Celestial Imperium]], and the seat of the [[Twelve Imperial Houses]] and the **Glass Palace**.
+The City of the Twelve Gems, or White Imperia (Imperia for short), is the self-proclaimed center and capital of Arybin. Sitting in the center of the Imperial Penninsula that pinches the Sea of Marbor, White Imperia is the former capital of the [[Celestial Imperium]], the home of the former **Glass Palace**, and the current capital of the [[Celestial Preservation Committee]].
+
+TODO: REWRITE ALL OF THIS
 
 Because of this, White Imperia is perhaps the most well developed and wealthy city in all of Arybin, serving as both an economic and political hub in both the [[Celestial Imperium]] and all of [[Redfield]]. White Imperia is also well known as the "City of Purity," due to the fact much of the city is dominated by castles and towers built from gold and white marble, the symbols of purity and sanctity. Most of this marble comes from the nearby mines of Arsemiel, where large marble and limestone quarries supplies the city with most of their construction resources.
 ##### **Cityscape:**

@@ -17,36 +17,26 @@ primarily composed of forests and rolling green plains, with lots of rivers and 
 To the East and West, dense forests marks a break between the Redfields and other continents. Here, settlements are far and few between, and most of the land consists of thick virgin forests. 
 
 #### **Home Cultures:**
-[[Formal Imperian]]
+[[Imperian Cultures]]
 
-[[Novingian]]
+[[Novingian Cultures]]
+
+[[Lusantheli Cultures]]
+
+[[Asternanci Cultures]]
+
+**History**
+
 
 ## **Main Regions:**
 
-#### **[[Celestial Redlands]]**
+#### **[[The Great Shattering]]**
 
-#### **[[Ibenar]]**
-#### **[[Vernailes]]**
+#### **[[Ibenari Redlands]]**
+#### **[[Eastern Vernailes or Vernaili Redlands]]**
 Often called the "Animal Realm of the Vernailes", inhabited by many sentient beasts who live in relative harmony in their own region.
-#### **[[Island of Merka]]**
+#### **[[Western Isles]]**
 
-
-##### **Suburban Entities**
-Although most of the wealth are found in cities, each city in the Redfields occupy a fraction of the land as compared to farms and rural developments. To prevent these regions from devolving into lawlessness, most cities often times govern their surrounding countrysides as well as their own cities.
-
-However, despite this, large swaths of the Redfields are governed by themselves, or rather, by a wide collection of rural settlements / farmer collectives. Often called **Rural Realms**, these entities still brings a sense of centralization to an otherwise lawless wilderness.
-
-[[Redglades Commune]]
-
-[[Ikardino Provinciale]]
-
-[[Westphalios Provinciale]]
-
-[[States of Helianos]]
-
-[[Forests of Corfium]]
-##### **Regions of Importance:**
-[[Redfield Corruption Zones:]]
 
 
 

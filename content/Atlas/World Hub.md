@@ -1,11 +1,14 @@
-sThis is a Hub for Worlds in Different Regions (Continents)
+Welcome to the World Atlas, an atlas that serves to direct you to the different geographies and realms within the world of Arybin. 
 
 **Continents:**
-**[[Redfield]]**, the Continent upon the Heart of Ifra
 
-**[[Aarile]]**, the Southern Dunes of the Lords of Khainds
+**[[Redfield]]**, the Continent on the Heart of Ifra
 
-**[[Canthor]]** and **[[Canthor Nevas]]**, the Eastern Forests of the Minorians
+**[[Ebyrsa]]**, the Shattered Continent of the Sentience
+
+**[[Aarile]]**, the Northern Dunes of the Lords of Khainds
+
+**[[Canthor]]**, the Forests of the Minorians
 
 **[[Ebyrs]]**, the Wayside Regions of the Brakesmen
 
