@@ -10,7 +10,7 @@
 >      32% Formal Imperian
 >    
 > **Religion:** New Ascension
-> **Official Languages:**
+> **Official Languages:** [[Standard Radian]]
 > 
 > 
 > **Established:** [[Ascension Calendar|AA]]: 0, AT: 1701 Following the [[War of Ascension]]

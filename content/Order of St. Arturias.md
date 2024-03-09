@@ -19,10 +19,12 @@
 
 ### Major Supporters / Affiliations
 
-**Church of the Old Ascensions**
+**Church of the Old Ascension**
 
 **Cult of the False Ascensions**
 
 **Theocrats of the Sun**
 
 **Royal House of Merrborn-Avanda**
+
+**Jannisaries of Kal'Vingta and the Lowcounties**

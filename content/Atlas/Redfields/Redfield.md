@@ -1,20 +1,18 @@
 > *Nuaah es Reinsfahren*
 
 **Redfield** 
-Other names: (The Redfields, Vinesreach, Imperial Region, Heartland, Ifraland, Ifra's Potente)
+Other names: (The Redfields, Imperial Lands, Heartland, Ifraland, )
 
- The Redfield is perhaps the most prosperous region in all of Arybin. Located at the center of convergence of multiple different continents and cultures, the Redfield region is also one of the most diverse and well developed regions in all of Arybin.
+The Redfield is perhaps one of the most prosperous region in all of Arybin. Making up the western coast of the [[Sea of Marbor]] and wrapping around the Sea of Adrathica, the Redlands are known for their wide crop fields and abundance in light and lightwielders, making the region the most energy-diverse regions of Arybin. However, the ongoing [[The Great Shattering|great shattering]] has caused damage to the prosperous plains of the Redfields, and its future remains uncertain.
 
 **Climate**
-The Redfields is mostly designated as the land and hilly countryside that surrounds the [[Sea of Marbor]], an expansive and well connected body of water that serves as the heart of trade and travel in the Redfield Region. 
+The Redfields is mostly composed of projecting cities and hilly countrysides. The region around the [[Sea of Marbor]] is relatively flat and great for farming, with fields extending from the shores of Marbor to the coastline of Adrathica. Most of the field and orchard outputs of the Redfields comes from this region, from wheat and barley, to vegetables and spices, and luxury goods such as dyes and wine. 
 
-To the East, lush forests and rolling green plains fills the landmasses, with lots of rivers and lakes dispersed among them. Most of the plains have been converted to fields, either growing wheat or barely, which can be seen dotting the countryside of The Redfields. 
+To the East, forests and more rocky terrain replace the rolling hills of the Redfield Plains. Known as the [[Ibenari Redlands]], this dense forested patch is filled with rivers and lakes, giving this region a great biodiversity. Most of the Ibenari Redlands are forested woodlands, though orchids and trading cities intermingle with the virgin woodlands. The [[Ibenari Redlands]] are also quite well known for their production of [[argin pearls]], a hard glassy pearl-like mineral that's grown by argin trees. 
 
-To the West, the land slowly transforms into more hilly and uneven terrain. However, the sediment rich soil of these regions means despite the hilly land, sloped terraces of land still allows for the cultivation of barley and rye, and orchard forests, which are the main produces of these regions.
+To the North, the land slowly transforms into more hilly and uneven terrain. However, the sediment rich soil of these regions means despite the hilly landscape, sloped terraces still allows for the cultivation of barley and rye, and forests, which are the main produces of these regions. 
 
-primarily composed of forests and rolling green plains, with lots of rivers and lakes dispersed among them. Most of the plains have been converted to fields, either growing wheat or barely, which can be seen dotting the countryside of The Redfields. To the North of the Redfields, the [[Sea of Narthide]] 
-
-To the East and West, dense forests marks a break between the Redfields and other continents. Here, settlements are far and few between, and most of the land consists of thick virgin forests. 
+Although, as you move closer and closer to the [[Zone of Darkness]], the land tends to grow colder and more and more hostile. The regions of north-eastern Redfields is devoid of life, following the disaster in the [[The Great Shattering|great shattering]], and anyone unfortunate enough to cross such lands is well advised to be prepared for hostile monsters that roam the "great north"
 
 #### **Home Cultures:**
 [[Imperian Cultures]]
@@ -33,8 +31,7 @@ To the East and West, dense forests marks a break between the Redfields and othe
 #### **[[The Great Shattering]]**
 
 #### **[[Ibenari Redlands]]**
-#### **[[Eastern Vernailes or Vernaili Redlands]]**
-Often called the "Animal Realm of the Vernailes", inhabited by many sentient beasts who live in relative harmony in their own region.
+
 #### **[[Western Isles]]**
 
 

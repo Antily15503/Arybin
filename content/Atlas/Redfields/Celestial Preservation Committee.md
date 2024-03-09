@@ -37,6 +37,9 @@ Following the great consolidation of what was once the [[Celestial Imperium]], t
 
 The Reconstruction Committee centers itself around the Imperial House, whose banner has been flown in [[White Imperia]] for generations. However, the Imperial House is nothing without their council of dedicated allies, who march alongside them in the name of the [[Celestial Imperium]]
 
+**Church of the New Ascension**
+
+
 **Royal Crown of Ignadiaz** 
 (Full Title: Royal Crown of Ignadiaz and the Fields of Flames)
 The Crown of Ignadiaz are well known in the Redlands for their wealth and their unyielding pursuit of power and strength. Coming from a long line of well known pyrochromatics ([[Red |Firelight]] Casters), the Crown of Ignadiaz is quite open about their reputation for being destructive and powerhungry. 

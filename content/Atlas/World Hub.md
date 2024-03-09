@@ -4,7 +4,7 @@ Welcome to the World Atlas, an atlas that serves to direct you to the different 
 
 **[[Redfield]]**, the Continent on the Heart of Ifra
 
-**[[Ebyrsa]]**, the Shattered Continent of the Sentience
+**[[Lorint]]**, the Shattered Continent of the Sentience
 
 **[[Aarile]]**, the Northern Dunes of the Lords of Khainds
 
