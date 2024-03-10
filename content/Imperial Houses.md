@@ -1,17 +1,17 @@
 
 
-**House Ignadiaz** (red)
+**[[House Ignadiaz]]** (red)
 
-**House Ilyane** (yellow)
+**[[House Ilyane]]** (yellow)
 
-**House Aven**(green)
+**[[House Aven]]**(green)
 
-**House Merrborn**(cyan)
+**[[House Merrborn]]**(cyan)
 
-**House Vamés** (blue)
+**[[House Vamés]]** (blue)
 
-**House Mazorve** (purple)
+**[[House Mazorve]]** (purple)
 
-**House Xitre** (black)
+**[[House Xitre]]** (black)
 
 
