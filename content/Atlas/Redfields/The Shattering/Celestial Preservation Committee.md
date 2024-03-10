@@ -1,9 +1,9 @@
 "We Imperials have never been too proud to reject tradition. The Ascendancy is what made us prosper, and the Ascendancy is what will save us all!"
 > [!tip] Quick Info
-> **Region:** [[Redfield]]
-> **Leader:** The Preservationist
-> **Governing Body:** Emergency Council of Glass
-> **Capital:** [[White Imperia]] 
+> **Region:** [[Redfield]] \n
+> **Leader:** The Preservationist \n
+> **Governing Body:** Emergency Council of Glass \n
+> **Capital:** [[White Imperia]] \n 
 > 
 > **Main Cultures:**
 >      52% Novingian
