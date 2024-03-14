@@ -9,7 +9,7 @@
 >      52% Novingian
 >      32% Formal Imperian
 >    
-> **Religion:** New Ascension
+> **Religion:** [[New Ascension]]
 > **Official Languages:**
 > 
 > 
@@ -18,11 +18,11 @@
 > **Preceeded By:** [[Celestial Imperium]]
 
 ### **Overview**
-The [[Celestial Preservation Committee]], or the "Celestial Guards", is the remaining de-jure government of the former [[Celestial Imperium]]. They consist of the remaining Imperial Houses that are loyal to the government, as well as the soldiers and garrisons of [[White Imperia]], Rafatland, and Amescord, who pledged fealty to the [[Celestial Preservation Committee |Committee]] following [[The Great Shattering]]. 
+The [[Celestial Preservation Committee]], or the "Celestial Guards", is the remaining de-jure government of the former [[Celestial Imperium]]. They consist of the remaining Imperial Houses that are loyal to the government, as well as the soldiers and garrisons of [[White Imperia]], Rafatland, Amescord, and the Northern Plantations, who pledged fealty to the [[Celestial Preservation Committee |Committee]] following [[The Great Shattering]]. 
 
 The Preservation Committee is currently led by the Emergency Council of Glass, or simply the Emergency Council, with Lord Avinad of House Imperia the de-Jure representative of the remaining Celestial State. Although commonly viewed as the "face" and icon of the ideals of the Celestial State, Lord Avinad serves more like a Great Unifier holding the different aspects of the Preservation Committee together, adopting the title "The Preservationist", as opposed to his house title. 
 
-Within the Committee, rival houses and faction leaders fight to consolidate power within the power vacuum that was once the Celestial State. Though most of these "petty squabbles" are put aside in the face of growing threat from the [[opposition]]. 
+Within the Committee, rival houses and faction leaders fight to consolidate power within the power vacuum that was once the Celestial State. Though most of these "petty squabbles" are put aside in the face of growing threat from the [[The Great Shattering#Main Factions|opposition]]. 
 
 To all other factions, the Preservation Committee represents all things that made the Celestial Imperium strong and weak. A strong nobility-led coalition fighting to reinstate order and loyalty to the plains of the [[Redfield|Redfields]], the Preservation Committee aims to preserve the beauty and grace of the empire, promising the return of the prosperity that was stolen.
 ### History
@@ -37,23 +37,18 @@ Following the great consolidation of what was once the [[Celestial Imperium]], t
 
 ### Major Supporters / Affiliations
 
-The Reconstruction Committee centers itself around the Imperial House, whose banner has been flown in [[White Imperia]] for generations. However, the Imperial House is nothing without their council of dedicated allies, who march alongside them in the name of the [[Celestial Imperium]]
+The Reconstruction Committee centers itself around the Imperial House, whose banner has been flown in [[White Imperia]] for generations. However, the Imperial House is nothing without their council of dedicated allies, who march alongside them in the name of preserving the [[Celestial Imperium]].
+###### **Church of the New Ascension**
 
-##### **Church of the New Ascension**
 
+###### **Royal Coalition of Ignadiaz, Merrborn, and Avens** 
 
-##### **Royal Crown of Ignadiaz** 
-(Full Title: Royal Crown of Ignadiaz and the Fields of Flames)
-The Crown of Ignadiaz are well known in the Redlands for their wealth and their unyielding pursuit of power and strength. Coming from a long line of well known pyrochromatics ([[Red |Firelight]] Casters), the Crown of Ignadiaz is quite open about their reputation for being destructive and powerhungry. 
+###### **Garrison of Rafatland**
 
-##### **Royal Crown of Merrborn**
+###### **Crownland of Amescord**
 
-##### **Luminated Throne of the Avens**
+###### **Military Garrison of West Avarin**
 
-##### **Garrison of Rafatland**
+###### **Administration of Nebid**
 
-##### **Crownland of Amescord**
-
-##### **Military Garrison of West Avarin**
-
-##### **Administration of Nebid**
+###### **Northern Plantations**

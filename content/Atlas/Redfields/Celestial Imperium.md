@@ -9,7 +9,7 @@
 >      52% Novingian
 >      32% Formal Imperian
 >    
-> **Religion:** New Ascension
+> **Religion:** [[New Ascension]]
 > **Official Languages:** [[Standard Radian]]
 > 
 > 

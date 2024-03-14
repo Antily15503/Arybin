@@ -9,7 +9,7 @@
 >      32% Novingian
 >      22% Formal Imperian
 >    
-> **Religion:** Old Ascension, Santimonian, Other banished Redfield religions
+> **Religion:** [[Old Ascension]], Santimonian, Other banished Redfield religions
 > **Official Languages:**
 > 
 > 
@@ -21,7 +21,7 @@
 
 **Church of the Old Ascension**
 
-**Cult of the False Ascensions**
+**[[Cult of the False Ascensions]]**
 
 **Theocrats of the Sun**
 

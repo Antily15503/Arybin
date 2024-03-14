@@ -1,4 +1,4 @@
-> *Nuaah es Reinsfahren*
+>"The sun provides my land, and my land provides my purpose" (unknown)
 
 **Redfield** 
 Other names: (The Redfields, Imperial Lands, Heartland, Ifraland, )
