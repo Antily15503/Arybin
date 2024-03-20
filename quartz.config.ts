@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "✴Arybin✴",
+    pageTitle: "✴Arybin⋆｡°",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -32,17 +32,17 @@ const config: QuartzConfig = {
           gray: "#F2EAD4",
           darkgray: "#3F2305",
           dark: "#42291F",
-          secondary: "#8d411c",
-          tertiary: "#DFD7BF",
+          secondary: "#42291F",
+          tertiary: "#8d411c",
           highlight: "rgba(143, 159, 169, 0.15)",
         },
         darkMode: {
           light: "#000000",
-          lightgray: "#F4DFC8",
+          lightgray: "#F6995C",
           gray: "#F4DFC8",
           darkgray: "#FAF6F0",
-          dark: "#ebebec",
-          secondary: "#F6995C",
+          dark: "#F4DFC8",
+          secondary: "#FFE4C9",
           tertiary: "#F4EAE0",
           highlight: "rgba(143, 159, 169, 0.15)",
         },
