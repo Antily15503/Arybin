@@ -1,4 +1,5 @@
 "We Imperials have never been too proud to reject tradition. The Ascendancy is what made us prosper, and the Ascendancy is what will save us all!"
+(Lord Merrbor, to the Citizens of White Imperia)
 > [!tip] Quick Info
 > **Region:** [[Redfield]] \n
 > **Leader:** The Preservationist \n
@@ -30,7 +31,9 @@ To all other factions, the Preservation Committee represents all things that mad
 **Post-Shattering**
 Immediately after the resulting loss of communications across the Empire following [[The Great Shattering]], the remaining loyal houses, military leaders, and members of the Imperial House met at [[White Imperia]] to discuss plans of re-establishing the [[Celestial Imperium]] through military and diplomatic force. 
 
-Representatives and mages of all the Imperial Houses were invited to join forces in the cause of "Preservation", though only houses [[Ignadiaz]], [[Merrborn]], and [[Aven]] accepted the invitation and pledged their loyalty to the rightful empire of the [[Redfield]]. With this, the Preservation Committee began to gear up for war, or as they called it, "reconquest". 
+Representatives and mages of all the Imperial Houses were invited to join forces in the cause of "Preservation", though only houses [[Ignadiaz]], [[Merrborn]], and [[Aven]] accepted the invitation and pledged their loyalty to the rightful empire of the [[Redfield]]. 
+
+With this, the Preservation Committee began to gear up for war, or as they called it, "reconquest". 
 
 **War of Floraines**
 Following the great consolidation of what was once the [[Celestial Imperium]], the Celestial Preservation Committee launched it's first major offensive in AA 91, against the lords of House [[Vamés]], who had pledged themselves to support 

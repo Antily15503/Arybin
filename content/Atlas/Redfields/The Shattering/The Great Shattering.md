@@ -28,7 +28,7 @@ In the year AD 88 [[Ascension Calendar|AA]], a second Revolt of Abron Forest, le
 **[[Celestial Preservation Committee]]**
 
 
-**[[Order of St. Arturias]]**
+**[[Patronage of the Sun]]**
 
 **[[Crystal Mages]]**
 

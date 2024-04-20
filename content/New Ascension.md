@@ -7,3 +7,5 @@ A common misconception of the religion is that the religion serves mostly to ido
 ##### **Tenets**
 As mentioned before, the core tenets of the religion is of finding radiance and light in obedience. In the story of "Teir Nahir Veda", the spirit of the Sun blesses the world with light and resources, and commands the common people to prosper in his name with the resources he cast down. Now that the Imperial family, a mirror image of the same spirit of the Sun, is among the living world, his Celestial Imperium represents all the light and wealth the Sun has blessed the world with. To honor such wealth and power, one must work and harvest and craft in the name of his imperium, and share them with those closest to him, who are seen to be ones "favored" by the Sun.
 
+Consequently, the ideals of loyalty and hard work are firmly entrenched in the tenets of the [[New Ascension]]. Aside from this central tenet, the New Ascension also introduces several new thoughts that were not found in any of the other Ascension religions. 
+
