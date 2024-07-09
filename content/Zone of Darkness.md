@@ -1,1 +1,0 @@
-The Great Zone of Darkness, or the Zone of Death, was a wide expanse of land in Northern Redlands that was rendered unhabitable and dangerous by [[The Great Shattering]].

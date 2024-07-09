@@ -1,0 +1,12 @@
+
+Pt 1: [[The Mists]]. 
+
+A long time ago, the [[A - Homeland]] was the central continent in the [[Kalaile|Sea of Continents]], an infinitely wide planar universe where gatherings of continents are grouped together based on a sharing of geology and arcane properties. These gatherings of continents were all separated by [[The Mists]], an arcane cloud covering endless void-like "oceans" of nothing that acts as dividers between realms and lands between continents.
+
+No one knows what caused the [[Kalaile|Sea of Continents]] or the presence of [[The Mists]], but many believe it was a failed project caused by a once technologically superior civilization that waged war with itself, leading to it's own self destruction and the shattering of reality which formed the [[Kalaile|Sea of Continents]]. Over time, however, as civilizations got more and more used to the presence of [[The Mists]], they slowly accepted it as a fact of life, a reality that they got used to, alongside the isolation it brought.
+
+However, over time, the mists got worse and worse. They started with encroaching upon the far reaches of the seas, where settlers hardly noticed their ever nearer presence. Over the course of hundreds of years, however, the Mist began to cut off contact between far "continent" clusters in this plane, worsening the isolation with every approach.
+
+To combat the threat of [[The Mists]], however, the most powerful settlements have dug underground, as well as build dome-like shields that protects their settlements from the all-encompassing effects of the mist. It is found that [[Arlium|Arlium Crystals]], when channeled with warding magic, seems to push back the mist with the most efficiency. This, combined with the effects of [[Arlium]] enchanted glass, generates an invisible arcane force that halts the advance of the mist. After this discovery, the price of [[Arlium]] has skyrocketed, and the discovery of this metal can be the cause of a settlement/city's survival or doom.
+
+[[The Mists]] are almost all proven to be deadly if entered without precautions. As a result, barely any adventurers dare venture outside the safety of their city's domes. Therefore, other cities are almost completely isolated from each other. 
