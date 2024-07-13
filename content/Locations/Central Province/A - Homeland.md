@@ -6,11 +6,19 @@ However, every day, the crystal becomes weaker, and adventurers must find a way 
 
 The Homeland also has several connections to [[Mistpaths]] to other nearby cities and towns. Each of these [[Mistpaths|mistpaths]] branch from what's called a Homeland Gate, which acts as an entranceway in and out of the Homeland region. Some notable [[Mistpaths|mistpaths]] include:
 
-[[Southpass]] in Southpass Gate, which leads to [[Erfyrm]]
+[[Southpass]] in [[Southpass Gate]], which leads to [[Erfyrm]]
 
-[[Northpass]] in Northpass Gate, which leads to [[Qirzen]]
+[[Northpass]] in [[Northpass Gate]], which leads to [[Qirzen]]
 
 [[Wishmen Pass]] in Ratanelle, which leads to [[Helsnet]]
+
+[[Arseille Pass]] in Urenain, which leads to [[La Freyre]]
+
+### Notable Cities
+[[Arlemany]]
+
+[[Efreman]]
+
 
 
 

@@ -19,3 +19,15 @@ A brief history of the world, and how it came to be.
 
 [[The Atlas]]
 An overview of notable places around the plane. 
+
+ANT DUMPING:
+pages I will sort out later but I put them here
+[[Chronological Keeping]]
+
+[[Alloy Metals]]
+
+[[Campaign Premise]]
+
+[[Low Threat Mistlings]]
+
+[[High Threat Mistlings]]

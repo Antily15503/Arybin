@@ -2,8 +2,11 @@ This is the page for all information known regarding **the mist**. For other pag
 
 > [!info]- Mist hyperlinks
 > [[Mist Devices]]: A list of devices that uses or can be used in **the mist**
+> 
 > [[Mistlings]]: A list of creatures and monsters formed by **the mist**
+> 
 > [[Mist-Metals]]: A list of resources and minerals forged by **the mist**
+> 
 > [[Mist Lands]]: A list of the known biome types that is a result of **the mist**
 
 

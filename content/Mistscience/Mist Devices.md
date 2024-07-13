@@ -8,10 +8,10 @@ Mistbeacons generally look like a large steel machine block with a very long ant
 
 Mistprobes, are the recieving end of Mistbeacons. They listen and look for signals emitted by mistbeacons, and displays them on a mist-powered display screen when in the mist. Mistprobes are typically handheld devices, typically consisting of a flat circular screen attached to a piece of conpressed machinery. A dial spins in the middle of the flat screen, and when in the presence of Mistbeacons, each time the dial points at a Mistbeacon a dot will light up, showing the distance the player is from the beacon.
 
-**Mistcharm**
+**Mistcharms** + **Mistsuits**
 {Learn more about [[Resisting the Mists]])
+
+To resist the mist when outside the protection of [[Resisting the Mists#^a9a61a|Mistdomes]], adventurers often use mistsuits and extra mistcharms to combat the corruptive nature of the mist. 
 
 A mistcharm, or mistwield is a piece of metal that can partially repel the forces of the mist. A smaller version of a piecewise 
 
-**Mistdome**
-A mistdome is a large city-wide net of mist-repelling metal that forms safe spaces where cities and towns can 
