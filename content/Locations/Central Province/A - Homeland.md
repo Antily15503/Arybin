@@ -2,6 +2,21 @@ The Central Province, also known as the Homelands (or Homelands Kingdom) , is a 
 
 Most of the land within the Central Province is protected by the [[Crystal of Spiren]], a large and infinitely pure crystal of Mist-repelling aura that seeks to dispel the mist to only the borders of the province. Made eons ago by a powerful unnamed cleric who directed the synthesis of the crystal, it is the main force behind the repelling of the mist, and the purification of the lands in the Central Province. Due to this crystal, the piece of land that is not affected by the crystal is one of the few places in this dark world that has vegetation, life, and an abundance of animals. 
 
+However, the lands under the Centrla Province are vast and different. 
+
+**Notable Regions:**
+
+Arlemany Central
+
+Northwoods
+
+Southplains
+
+Eastridge
+
+Westcoast
+
+
 The most notable city within the Homelands, referred as the "capital city", is [[Arlemany]], nicknamed the "far light city". It is said that the light given by the [[Crystal of Spiren]] within [[Arlemany]] can be seen for miles on end. 
 
 Other notable cities include:

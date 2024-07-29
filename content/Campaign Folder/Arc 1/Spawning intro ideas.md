@@ -1,0 +1,6 @@
+- Player meets up with someone for a drink at a hotel, where they're given the inside scoop on a secret meeting. If they accept they will reach the meeting site because they're sneaking up on the party.
+- Player gets knocked out in a fight and is revived by a member of the inquisition who takes care of them
+- Player was shopping for something when they were "scouted" by the inquisition due to some characteristic
+- Player was having a drink with an unknowing inquisition member
+- Player saw a poster of the inquisition hiring/looking for heros and signed up
+- 

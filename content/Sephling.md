@@ -1,0 +1,1 @@
+Sephlings, also known as Elves, or Noblelings, is a tall humanoid creature well known for their sophistication, intellect, and their almost similarities in inclinations to [[Humans]]. Most Sephlings, or Elves, as they are often called by others, tend to live luxury or isolated lives within the wider [[Humans|Human]] populace. They are often experts at blending in, 

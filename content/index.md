@@ -1,31 +1,41 @@
 
-> In an unforgiving and cold world, it's easy to lose your identity to survive. However, your identity is but the easiest thing to control and shape, if you have the means to protect it.
+## The Mist Addendum
 
-\- an unknown hero
+Vol. 3, written by Loris Addlen
 
-Welcome to Arybin, a world of balance, power, and mist. This special project of mine started around mid 2024, though currently is very barebones. Though, with the help of others, this world is slowly taking on the shape of a fantasy world as I envision it.
+It has been two centuries since the last adventurers ventured into the dangers of the mist. To push back the ever encroaching tide of fog that threatens our pure lands, it seems that the benefits of their excursion seems to have almost been undone. 
 
-Join me, as we watch how the fates of the world dance, and how it weaves in between [[The Mists]]'s shadowy dance.
 
-**This is the Main Hub for the world of Arybin, from which you can navigate to any dictionary pages as you wish!**
+Although the spirits of the original adventurers seems to have passed on, their records seems to still be within my company. Little is known of the lands and people beyond the veil of shadows that is the mist, and thus their accounts and journals remains the most encompassing sources I have with me. I write these series of tomes in hopes that it may assist in our future, a recollection of all that we know about the mists, and the dark world of Arbyin. 
+
+May Silven light our path, and our way forward.
 
 ===========================================================
 
-[[The Mists]]
+[[The Tome of Mist, Vol. 2]]
+
+A powerful scholar once said "you can only fight the threat by learning about the threat". Our fight against the mist is only worthwhile if pursued alongside our research into the mist. This documents all the things I have found regarding the mist, and the dangerous powers within.
 
 A guide to everything regarding the mysterious mists that blind the world
 
 [[Stories and History]]
 
-A brief history of the world, and how it came to be.
+A recollection of all I remember about the Purelands, from wars to kings to the present.
 
 [[The Atlas]]
 
-An overview of notable places around the plane. 
+An overview of notable places around the Purelands and beyond. Thank you Funel for your map drawing, may Silven bless you. 
+
+
+
+
 
 [[Mechanics Page]]
 
 A summary page of the mechanics of the mist and how it plays with DND (or hell, maybe my own ttrpg mechanic idk) 
+
+[[Magic]]
+The magic page for Arybin. Connects heavily with the mist. 
 
 ANT DUMPING:
 pages I will sort out later but I put them here

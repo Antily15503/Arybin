@@ -10,3 +10,5 @@ However, over time, the mists got worse and worse. They started with encroaching
 To combat the threat of [[The Mists]], however, the most powerful settlements have dug underground, as well as build dome-like shields that protects their settlements from the all-encompassing effects of the mist. It is found that [[Arlium|Arlium Crystals]], when channeled with warding magic, seems to push back the mist with the most efficiency. This, combined with the effects of [[Arlium]] enchanted glass, generates an invisible arcane force that halts the advance of the mist. After this discovery, the price of [[Arlium]] has skyrocketed, and the discovery of this metal can be the cause of a settlement/city's survival or doom.
 
 [[The Mists]] are almost all proven to be deadly if entered without precautions. As a result, barely any adventurers dare venture outside the safety of their city's domes. Therefore, other cities are almost completely isolated from each other. 
+
+
