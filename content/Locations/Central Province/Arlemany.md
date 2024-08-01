@@ -8,5 +8,6 @@ Arlemany: The Purity Capital of the Heartlands, Gold Capital of the Arlenes, and
 > [[Humans]] (Searslander, Southlander, Eastcoaster)
 > [[Sephling]] (Itridi)
 > [[Mincelli]] (Mincellians)
+> [[Ibenzi]] (Ibenzian)
 
 **Noble Control:**
