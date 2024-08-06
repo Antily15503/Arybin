@@ -1,0 +1,2 @@
+
+Mist-born, or "reborn spirits" are sentient animals who are killed and resurrected by [[The Mists]]. When brought back to life through the corruptive powers of [[The Mists]], most of these mist-borns are altered by the corrosiveness of the mist. They typically lose their soul, or are transformed into a new beast that are wildly different from their previous animal-like nature and appearance. 
