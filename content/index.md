@@ -1,7 +1,6 @@
+## The Last Records
 
-## The Mist Addendum
-
-Vol. 3, written by Loris Addlen, to the Keeper's Senate and others. 
+Vol. 3, written by Loris Addlen, to the Preserver's Senate and others. 
 
 It has been two centuries since the Last Adventurers ventured into the heart of the mist. The great leaders of Efreman, they journeyed into the mist to keep our pure lands verdant, and our people safe. Their deaths were also made as a sacrifice to keep the ever encroaching tide of fog that threatens Arlemany, a loss that kept us alive for all these years.
 
@@ -13,11 +12,13 @@ May Silven light our path, and our way forward.
 
 Date: 4th Fallsday of Sunfury, 214.
 
+[[Notes of the Past|Open the Journals]]
+
 ===========================================================
+**Nearby, there seems to be several scrolls nearby**. Most of these seem to have notes attached to them, outlying their purpose and significance.
 
-[[The Tome of Mist, Vol. 2]]
-
-An esteemed keeper had once said to me: "You can only fight that of what you know". Our fight against the mist is only worthwhile if pursued alongside our research into the mist. This documents all the things I have found regarding the mist, from dangerous, to useful, to thoughts I find intriguing.
+> [!info]- [[The Tome of Mist, Vol. 2]]
+>  An esteemed keeper had once said to me: "You can only fight that of what you know". Our fight against the mist is only worthwhile if pursued alongside our research into the mist. This documents all the things I have found regarding the mist, from dangerous, to useful, to thoughts I find intriguing.
 
 [[Stories and History]]
 

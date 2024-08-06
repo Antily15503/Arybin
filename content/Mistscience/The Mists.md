@@ -1,4 +1,5 @@
-This is the page for all information known regarding **the mist**. For other pages, see below:
+
+*This is the page for all information known regarding **the mist**. For other pages, see the table of contents below:*
 
 > [!info]- Mist hyperlinks
 > [[Mist Devices]]: A list of devices that uses or can be used in **the mist**
@@ -10,7 +11,7 @@ This is the page for all information known regarding **the mist**. For other pag
 > [[Mist Lands]]: A list of the known biome types that is a result of **the mist**
 
 
-The Mists (collective) references a hazy gaseous phenomenon that is commonly seen as the boundary between different cities and continents in the [[Kalaile|Sea of Continents]]. Commonly thought of as a physical manifestation of corruptive or potent arcane energy, little is known about the mist and it's purpose, other than it's raw power and danger. Although **the mist** was speculated to have come from the result of a large magical war eons ago, over time it has spread enough to encapsulate the entire world of Arybin. 
+The Mists (collective) references the hazy gaseous phenomenon that is commonly seen as the boundary between different cities and continents in the [[Kalaile|Sea of Continents]]. Commonly thought of as a physical manifestation of corruptive or potent arcane energy, little is known about the mist and it's purpose, other than it's raw power and danger. Although **the mist** was speculated to have come from the result of a large magical war eons ago, over time it has spread enough to encapsulate the entire world of Arybin. 
 
 The deadly corruptive force of **the mist**, however is a phenomenon that is well feared amongst the living settlers of the planet. Although exact details are hazy, mist adventurers who do not have the correct forms of protection and warding are known to be killed and changed very quickly by the corruptive forces of the mist. They turn into [[Mistkarr|a mistkarr]], a zombie-like creature that is the result of the mist corrupting a sentient organism.  Stories of [[Mistkarr|mistkarrs]] roaming the wide empty mist-filled wastelands of Arybin are well known, and plays a big reason in why settlers are focused on [[combatting the mist]] to contain it's ever-rapid spread.
 

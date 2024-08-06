@@ -1,0 +1,2 @@
+
+White marble towers, neat gold trimmed mansions, and keeps of many different shades of wood, bricks, and stone. If Arlemany had the chaotic sprawl of a regional capital, Belsmarl had the architecture of money and wealth, the capital of a noble's life of luxury. They say a week in Belsmarl is enough to make anyone forget to be afraid of the mist.
