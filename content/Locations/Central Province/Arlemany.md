@@ -3,7 +3,7 @@
 
 ##### Quick Stats
 Arlemany: The Purity Capital of the Heartlands, Gold Capital of the Arlenes, and the Corelands of the Purity River. 
-**Notable Majority Species:** [[Humans]] (Arlene, Efrei, and Bellsmari), [[Sephling]] (Khalsbor)
+**Notable Majority Species:** [[Humans]] (Arlene, Efrei), [[Sephling]] (Khalsbor)
 **Minority Species**: 
 > [[Humans]] (Searslander, Southlander, Eastcoaster)
 > [[Sephling]] (Itridi)

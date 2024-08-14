@@ -1,6 +1,6 @@
 \*this scroll seems to be written in a completely different and archaic language. Thankfully, a scribe or a learned person seems to have written a translated version of the text in dark red ink.*
 
-
+[[Thetject Tolmezkec Ivze Auraiz - III]] <- Learn more about the Powers of Tolmez, and the gods of Resurrection and Decay
 #### Author's Message
 The power to bend the mist, to force pure chaos to do one's bidding, was a forbidden art tied to the darkest of livingkind. To bend the mist, a force of pure chaos, one needed to be chaos and dark, in order to overpower the destructive nature of [[The Mists|the mists]]. Few, if any souls, ever had the wherewithal to claim this crown, to fight the mist and live to tell the tale.
 
@@ -13,4 +13,14 @@ I leave this record to pass what I know about Mistforcers onwards, in hopes of b
 #### Introduction
 The so called "art" of Mistforce is a powerful form of magical control. To wield power itself, and utilize it to corrupt and destroy anything deemed "evil" or "the enemy" is at the core of Mistforce. All mistforcers are born with a certain level of affinity with the mist, which separates ordinary people from mistforcers. This affinity allows someone to channel the mist, either through their body, their blood, or their skin. 
 
-However, within the broader label that is Mistforcers, each mistforcer can be classified based on their type of attunement, and how powerful their mist channeling ability is. 
+However, within the broader label that is Mistforcers, each mistforcer can be classified based on their type of attunement, and how powerful their mist channeling ability is. There are three main classifications, and some of them more dangerous than others.
+
+#### Skin Mistforcers
+Skin Mistforcers, called [[Arcane Wielder]] by the more learned tongue, are Mistforcers who can 
+- can only manipulate the mist through their touch and their weapons, not by themselves
+#### Body Mistforcers
+- Can manipulate the mist through their touch and body. Often wears different metals to utilize the mist around them, and manipulates mist away from their core organs to avoid being corrupted and killed by the mist.
+#### Blood Mistforcers
+- Can manipulate the mist, absorb the mist, and release the mist temporarily in safe regions. The most dangerous but most powerful form of Mistforcers.
+
+

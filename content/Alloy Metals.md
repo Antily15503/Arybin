@@ -10,7 +10,7 @@ All Magical Alloys consists of a blend of three basic metal components, which ar
 #### **Anchor Metals**
 Metals that anchor the magical component to the weapon itself. Often a sturdy hardy metal, anchor metals keeps the weapon bound to it's magical component and stabilizes any magical spells that are cast with it.
 
-Basic Anchor Metals:
+**Basic Anchor Metals:**
 Iron
 - Known for it's versatility and solidness
 Copper
@@ -22,18 +22,55 @@ Tungsten
 Aluminum
 - Known for it's light weight and quick channeling
 
-Mixed Anchor Metals:
+**Resonating Anchor Metals:**
+Resonating Anchor Metals are actually not anchor metals, as they are too weak or brittle to act as a good weapons core. However, when mixed with other metals, they form powerful Resonator Alloy
 
-Bronze (Compound Anchor of Tin and Copper)
-- Known for it's vibrancy and acute focus
-Pewter (Compound Anchor of Tin and Lead)
-- Known for it's cheapness and sturdiness
+Common Resonating Metals:
+Bismuth
+
+**Mistfilled Anchor Metals**
+See [[Mist-Metals]]
+#### **Resonating Layers**
+Resonating layers are a special layering of two different metals that occur outside the anchor metal core. Depending on which two layers are present, they can attune the channel of energy and mist within to shift to different hues of color, called "aspect".
+
+**Normal Resonators**
+Resonating Layers composed of normal alloys found underground. Typically the most common forms of Resonating Layers out there.
+
+Duralumin
+- Aluminum + Copper
+- Red Aspect
+	- Fire Damage
+
+Rosesteel
+- Orange Aspect
+- Hard Rosesteel
+	- Bismuth + Lead
+	- Necrotic Damage
+- Soft Rosesteel
+	- Bismuth + Tin
+	- Psychic Damage
+
+Electrum
+- Silver + Gold (RARE AND POWERFUL)
+- Yellow Aspect
+	- Radiant Damage + Light Magic
+
+**Base Pair Resonators**
+Brass
+
+Bronze
+
+Steel
+- Base Resonator / Resonating Binding
+
+**Mist Reactant Resonators**
+Cryotheum
+- Blue Aspect
+- Hard Cryotheum
+	- Cobalt
 
 
 
-#### **Resonator Metals**
-
-Electrum (Compound Anchor of Gold and Silver)
 
 #### **Trace Metals**
 
