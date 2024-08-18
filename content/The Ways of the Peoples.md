@@ -15,4 +15,16 @@ That is but a hypothesis
 
 
 #### Sephlings
-Perhaps the closest in terms of culture aside from us humans, the Sephlings are quite masterful of adopting and blending with our own cultures and values. Aside from their tall lanky frames, their long pointed ears, and the shared interest of a sizeable minority of painting their faces with neat and intricate designs, Sephlings, at heart, are ones that seem to mirror ours. 
+Perhaps the closest in terms of culture aside from us humans, the Sephlings are quite masterful of adopting and blending with our own cultures and values. Aside from their tall lanky frames, their long pointed ears, and the shared interest of a sizeable minority of painting their faces with neat and intricate designs, Sephlings, at heart, are ones that seem to mirror ours. I have friends in small towns and cities who are Sephlings, and they seem to treat me the same as a human to another. I'm sure we can all get along, if we all try hard enough. 
+
+[[Khalsbor]]
+
+[[Itridi]]
+
+[[Jehat-Wi]]
+
+
+
+
+#### Mincelli
+The Mincelli folks of the East and 

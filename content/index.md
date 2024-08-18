@@ -3,7 +3,7 @@ An old table stands towards the far wall of the library, below a slightly open w
 You make your way up towards the letter, spread out among a stack of scrolls and books. Despite it's age, the neat tidy ink fills the letter with words that is somehow still legible despite the passage of time.
 
 > [!abstract] **A note of warning**
-> `Written by Loris Addlen, to the Preserver's Senate and others. 
+> Written by Letin Tzuntta'ale, to the Preserver's Senate and others. 
 > Two years in exile has given me lots of time to think about things. A traveler who's seen much of the world like me tends to do a lot of pondering. One could say too much pondering, though I believe it is this that makes me want to write to you all, as a way of being convincing. 
 > 
 > You might be surprised to hear back from me so soon, as you have given me more than these past two years to reflect on my curiosity. I have reflected, and reflected some more, and I still believe it is more important to research the mist and the connections it has with [[Alloy Metals]] than spend time selfishly on my own. Yes, you will most likely disagree with my conclusions, but it is important that you disregard the discomfort of these truths in favor of what I have to say, for if I am right, then we are possibly in great danger.
@@ -25,7 +25,7 @@ You make your way up towards the letter, spread out among a stack of scrolls and
  >
  >In other news, [[Efreman]] was almost the city we imagined. Letik, my dragonet, and I crossed Lemer's Pass the other night. I am forever thankful I was able to find and raise Letik, a dragonet who I fear didn't think highly of me for the first few days. However, I think even he knows I am a fragile creature, despite being a member of the Senate. Maybe that is why he acts all protective of me whenever I meet with others in Efreman. Dragonets are really not as ferocious as we tend to think.
  >
- >Give Alan my best, and tell him I don't fault him. We still have time.
+ >Give Eridan my best, and tell him I don't fault him. We still have time.
  >
  >May Silven light all our paths, and our way forward,
 > Loris
@@ -37,6 +37,8 @@ Date: 4th Fallsday of Sunfury, 214.`
 ===========================================================
 Nearby, there seems to be several scrolls nearby. Most of these seem to have notes attached to them, outlying their purpose and significance.
 
+### Magika
+
 > [!info]- [[The Tome of Mist, Vol. 2]]
 >  An esteemed keeper had once said to me: "You can only fight that of what you know". Our fight against the mist is only worthwhile if pursued alongside our research into the mist. This documents all the things I have found regarding the mist, from dangerous, to useful, to thoughts I find intriguing. There are potential fields in here that could be potentially useful to us all.
 
@@ -45,7 +47,7 @@ Nearby, there seems to be several scrolls nearby. Most of these seem to have not
 
 > [!info]- [[A Metallurgic breakdown of Steelscience]]
 >  Steelscience is not a well practiced magic in the purelands, but it is still pivotal to most of the arcane foundations we base our theories and studies on. The Mincelli of the Northwest has always been protective of their art of Steelscience, but it is still a well established art that has definite ties with Lightmancy and even the Mist.
-
+### Societies
 > [!info]- [[The Ways of the Peoples]]
 >  This is a journal of the different groups of societies and peoples within the Purelands. It was a lot to remember for me, so I wrote them all down in case I ever need it in the future.
 
@@ -59,9 +61,13 @@ Nearby, there seems to be several scrolls nearby. Most of these seem to have not
 >  
 >  Thank you Funel for your map by the way, may Silven bless you.
 
+### Beasts and Familiars
 
+> [!info]- [[Mythical Beasts and Where to find Them]]
+>  
 
-
+> [!info]- [[Connections of Drakori Sentience]]
+>  I picked this up while journeying through [[Le May]] on my way to Efreman. My constant focus on the mists has made me a bit blind towards other forms of magic, especially the Drakori connections that were formed between Humans, Sephlings, and Mincelli, with the sentient companions of the Purelands. It's mostly old magic, very very old magic that was recently pioneered by Arturko Drakori a century ago, but there's a certain fondness to the magic that I didn't quite understand before meeting Letik.
 
 
 
