@@ -1,6 +1,6 @@
 
 **Base Metals**
-The theory of Steelscience revolves around the 9 base metals found underground. 
+The theory of Steelscience revolves around the 9 base metals found underground. 7 standard metals, and the two god-base metals.
 
 **Copper** (Letium / Naor-Dorr)
 
@@ -15,4 +15,10 @@ The theory of Steelscience revolves around the 9 base metals found underground.
 **Lead** (Biskeltine / Hal-Door)
 
 **Tin** (Kavine / Gyr-Minn)
+
+And the two God-base metals:
+
+**Gold** (Vesite / Ja Rher)
+
+**Silver** (Alite / Ja Forr)
 
