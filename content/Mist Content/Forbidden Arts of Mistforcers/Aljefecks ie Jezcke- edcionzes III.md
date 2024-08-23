@@ -2,7 +2,8 @@
 
 [[Thetject Tolmezkec Ivze Auraiz - III]] <- Learn more about the Powers of Tolmez, and the gods of Resurrection and Decay
 #### Author's Message
-The power to bend the mist, to force pure chaos to do one's bidding, was a forbidden art tied to the darkest of livingkind. To bend the mist, a force of pure chaos, one needed to be chaos and dark, in order to overpower the destructive nature of [[The Mists|the mists]]. Few, if any souls, ever had the wherewithal to claim this crown, to fight the mist and live to tell the tale.
+The power to bend the mist, to force pure chaos to do one's bidding, was a forbidden art tied to the darkest of livingkind. To bend the mist, a force of pure chaos, one needed to be chaos and dark, in order to overpower the destructive nature of [[The Mists|the mists]]. Few, if any souls, ever had the wherewithal to claim this crown, to fight the mist and live to tell the tale. 
+
 
 As a result, the secrets of [[Mistforcers]] were never hard to keep. That is, until this scroll was made.
 
