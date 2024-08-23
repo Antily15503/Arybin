@@ -3,7 +3,7 @@ Ex: Lightmagic encompasses light, which is a pure force, though the colors repre
 
 Illusioles encompasses illusions, which are metaphysical forces that act on light. The spectrum of illusions encompasses all the different forces that can bend, alter, warp light, or even force light to quantum through different timelines. 
 
-Wand magic encompasses conductance, a metallic property that is the passing of light magic through a medium. The spectrum encompasses how conductive a metal is, and how the light behaves with the metal within it.
+~~Wand magic encompasses conductance, a metallic property that is the passing of light magic through a medium. The spectrum encompasses how conductive a metal is, and how the light behaves with the metal within it.~~
 
 Lastly, Mistbending encompasses the mist, a pure medium of energy that is deadly in it's chaos and uncertainty. Because it is a pure medium, it can be channeled to different "spectral forms", similar to light.
 

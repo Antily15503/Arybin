@@ -10,6 +10,8 @@ Collecting or observing the properties of the Auralight is very difficult, as it
 ### In Lightmancy
 In Lightmancy, "Auralight" is simply referred to as "light", that is, the visible light Lightmancers need to cast spells. In Lightmancy, it is commonly believed that Auralight is tuned through a crystal of some form, before channeled and expelled to produce the appropriate effect the lightmancer intended. Therefore, it is widely accepted that visible light, and all the colors that can be contained within visible light is a physical representation of the Auralight, and represents a visible sign of channeling in Lightmancy.
 
+The purest representation of this auralight, at least to Lightmancers, is perhaps the concept of "white" or "clear" light. Light that hasn't had a chance to be attuned appears white in the form of pure brightness, though oddly enough is quite useless to lightmancers without the tools to use it. 
+
 ### In Steelscience
 The concept of "Auralight" in Steelscience is still hazy at best. Often times, the Auralight is thought to be embedded within metals, and Steelscience uses the embedded auralight to attract and channel the auralight in a [[steelcaster]]'s surroundings through the metal within them or on them. Because of this, Auralight in Steelscience is refferred to as "Inside light", that is, light that is trapped within metal.
 

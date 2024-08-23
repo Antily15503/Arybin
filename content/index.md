@@ -39,14 +39,14 @@ Nearby, there seems to be several scrolls nearby. Most of these seem to have not
 
 ### Magika
 
-> [!info]- [[The Tome of Mist, Vol. 2]]
->  An esteemed keeper had once said to me: "You can only fight that of what you know". Our fight against the mist is only worthwhile if pursued alongside our research into the mist. This documents all the things I have found regarding the mist, from dangerous, to useful, to thoughts I find intriguing. There are potential fields in here that could be potentially useful to us all.
-
 > [!info]- [[A Guide to Lightmancy]]
 >  The most prevalent system of magic in Arybin, for the longest time I've sought for a connection between the mist, something we all know is an arcane construct, to Lightmancy, the most widely accessible form of magical resonancy in our Purelands. It's been a hard journey, but I know there's a simple connection out there that I'm overlooking. Maybe a review of this guide might help bring it about.
 
 > [!info]- [[A Metallurgic breakdown of Steelscience]]
 >  Steelscience is not a well practiced magic in the purelands, but it is still pivotal to most of the arcane foundations we base our theories and studies on. The Mincelli of the Northwest has always been protective of their art of Steelscience, but it is still a well established art that has definite ties with Lightmancy and even the Mist.
+
+> [!info]- [[The Tome of Mist, Vol. 2]]
+>  An esteemed keeper had once said to me: "You can only fight that of what you know". Our fight against the mist is only worthwhile if pursued alongside our research into the mist. This documents all the things I have found regarding the mist, from dangerous, to useful, to thoughts I find intriguing. There are potential fields in here that could be potentially useful to us all.
 ### Societies
 > [!info]- [[The Ways of the Peoples]]
 >  This is a journal of the different groups of societies and peoples within the Purelands. It was a lot to remember for me, so I wrote them all down in case I ever need it in the future.
