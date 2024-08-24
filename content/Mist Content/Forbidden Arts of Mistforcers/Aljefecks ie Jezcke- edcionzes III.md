@@ -16,6 +16,17 @@ The so called "art" of Mistforce is a powerful form of magical control. To wield
 
 However, within the broader label that is Mistforcers, each mistforcer can be classified based on their type of attunement, and how powerful their mist channeling ability is. There are three main classifications, and some of them more dangerous than others.
 
+
+
+UPDATE:
+
+A Mistforcer is someone who can bend the mist. Since MIst is made of pure chaos energy, to be able to wield it, one must either be given the power through a means of Chaos ([[Hemofusion]]) or be born with an immense capability for Order (a channeling of power of the deity of Providence). 
+
+A Natural Mistforcer is in direct opposition to Decay, specifically Ruin. 
+
+A Hemofused Mistforcer is in alliance of Decay, as they used the power of Death to compel the mist to do their bidding. It is said that once a person commits Hemofusion, the transition of power also kills the humanity within them, opening their soul up entirely to the powers of Decay.
+
+BELOW IS OUTDATED
 #### Skin Mistforcers
 Skin Mistforcers, called [[Arcane Wielder]] by the more learned tongue, are Mistforcers who can 
 - can only manipulate the mist through their touch and their weapons, not by themselves

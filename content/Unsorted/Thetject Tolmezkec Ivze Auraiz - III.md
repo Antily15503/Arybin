@@ -4,7 +4,7 @@ The spirit of Providence
 	- Balance - fragment of moderation
 	- Revival - fragment of support
 	- Empathy - fragment of spirit
-	- Knowledge - fragments of the wisen
+	- Order - fragments of the stable
 
 The spirit of Decay
 - One world controlling spirit with different "personas", known as the spirits of Chaos:
