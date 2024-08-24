@@ -1,4 +1,10 @@
 
+
+
+Warning: Channeling too mcuh steel through steelscience at once may cause someone to lose their soul to Ruin, showing that Steelscience is a much more dangerous magic than Lightmancy
+
+
+
 **Base Metals**
 The theory of Steelscience revolves around the 9 base metals found underground. 7 standard metals, and the two god-base metals.
 
