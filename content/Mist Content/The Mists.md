@@ -18,6 +18,9 @@ The deadly corruptive force of **the mist**, however is a phenomenon that is wel
 > [!abstract]- Addendum 1.1
 > As opposed to what the scroll suggests, the mist is perhaps not as simple of a thing to get rid of as this book suggests. The very nature of the mist, which is chaos and energy, is deeply rooted into the very physics of our world, and we need to know more about such physics before pursuing efficient ways of containing or undoing the effects of it.
 
+### Appearance
+To most, the mist appears exactly like it's namesake. It is often times a cloudy opaque gas, varying in opaqueness and intensity, and seems to linger around.
+
 ### Effects
 The effects of **the mist** is perhaps the most well-understood portion of **the mist**.It is well known that the mist corrupts, changing creatures, landscapes, and even metals and gems into their corresponding mist-filled counterparts. However, little is known about the mist themselves, or how this process occurs. 
 

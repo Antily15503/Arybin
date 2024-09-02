@@ -3,7 +3,7 @@ An old table stands towards the far wall of the library, below a slightly open w
 You make your way up towards the letter, spread out among a stack of scrolls and books. Despite it's age, the neat tidy ink fills the letter with words that is somehow still legible despite the passage of time.
 
 > [!abstract] **A note of warning**
-> Written by Letin Tzuntta'ale, to the Preserver's Senate and others. 
+> Written by Letin Tzunttale, to the Preserver's Senate and others. 
 > Two years in exile has given me lots of time to think about things. A traveler who's seen much of the world like me tends to do a lot of pondering. One could say too much pondering, though I believe it is this that makes me want to write to you all, as a way of being convincing. 
 > 
 > You might be surprised to hear back from me so soon, as you have given me more than these past two years to reflect on my curiosity. I have reflected, and reflected some more, and I still believe it is more important to research the mist and the connections it has with [[Alloy Metals]] than spend time selfishly on my own. Yes, you will most likely disagree with my conclusions, but it is important that you disregard the discomfort of these truths in favor of what I have to say, for if I am right, then we are possibly in great danger.
