@@ -1,3 +1,7 @@
+High Radiance:
+- Worships the light as a self religious entity, though also has a large version of High Radiance that is basically a cult of personality of the Nobles of Arlemany (mostly among the workers and serfs)
+- Places a high virtue on lightmancy, the hues of light, and of channeling them.
+
 Religion of Merits:
 
 Co-dominant Harmony:

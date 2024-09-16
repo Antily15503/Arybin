@@ -1,5 +1,7 @@
 Lightmancy + Steelscience relies on the **Auralight**, a power formed by the convergence of Providence and Decay. Neither can control the power while the other is alive, and so Auralight remains (for now) a force of neutral power
 
+The Auralight is actually the result of both Providence and Decay channeling their own powers to will it into existence. The nature of Providence perfectly cancelled out the destructive urge of Decay, and as a result the Auralight is a substance of pure power not controlled by either "deities"
+
 The Gods:
 
 The spirit of **Providence**
