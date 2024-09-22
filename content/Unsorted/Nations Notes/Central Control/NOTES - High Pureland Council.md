@@ -44,3 +44,19 @@ Head: Serei Tymen
 Head: Alexis de Janeck
 
 ##### Efrei Flower Conference
+###### House of Roses  
+Leader: Tymen Galtgard
+
+###### House of Tulips
+Leader: LeFay Seingenac
+
+###### House Orchids 
+Leader: Sentur Mile-Veranos
+
+###### Lightship of the Chrysanthemum
+Leader: Quellen Meritsunam
+###### Lightship of the Hyacinths
+Leader: Mattrias Karlsrune
+###### Iris Bishoprics
+Holy Ditrine: Priestess Nierle Temmas
+Archbishopric: High Priestess Lurianne Temmas
